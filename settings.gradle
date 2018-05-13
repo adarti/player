@@ -1,0 +1,4 @@
+rootProject.name = 'player'
+include 'player-soundsystem'
+include 'player-app'
+
